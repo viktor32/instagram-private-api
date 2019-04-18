@@ -101,6 +101,7 @@ export const ROUTES = {
   unsave: 'media/<%= id %>/unsave/',
   userStory: 'feed/reels_media/',
   storyTray: 'feed/reels_tray/',
+  getCloseFriends: 'friendships/besties/',
 };
 
 export const WEB_ROUTES = {
