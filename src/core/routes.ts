@@ -102,6 +102,7 @@ export const ROUTES = {
   userStory: 'feed/reels_media/',
   storyTray: 'feed/reels_tray/',
   getCloseFriends: 'friendships/besties/',
+  setCloseFriends: 'friendships/set_besties/',
 };
 
 export const WEB_ROUTES = {
